@@ -1,0 +1,36 @@
+2024-09-12 17:01:22,566 ERROR [main] o.s.b.d.LoggingFailureAnalysisReporter [LoggingFailureAnalysisReporter.java:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field discussPostMapper in com.nowcoder.community.service.DiscussPostService required a bean of type 'com.nowcoder.community.dao.DiscussPostMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nowcoder.community.dao.DiscussPostMapper' in your configuration.
+
+2024-09-12 17:01:45,799 ERROR [main] o.s.b.d.LoggingFailureAnalysisReporter [LoggingFailureAnalysisReporter.java:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field discussPostMapper in com.nowcoder.community.service.DiscussPostService required a bean of type 'com.nowcoder.community.dao.DiscussPostMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.nowcoder.community.dao.DiscussPostMapper' in your configuration.
+
